@@ -48,3 +48,15 @@ body {
     color: #000000;
 }
 
+@media(max-width:480px){
+    .iframe{
+        width:100%;
+    }
+
+    .row{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+}
