@@ -50,7 +50,7 @@ body {
 
 @media(max-width:480px){
     .iframe{
-        width:100%;
+        width:320px;
     }
 
     .row{
@@ -58,5 +58,11 @@ body {
         justify-content: center;
         align-items: center;
         flex-direction: column;
+    }
+}
+
+@media(max-width:320px){
+    .iframe{
+        width:100%;
     }
 }
