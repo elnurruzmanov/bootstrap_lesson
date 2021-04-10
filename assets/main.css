@@ -266,6 +266,13 @@ ul{
         margin:10px 0;
     }
 
+    .container-item{
+        text-align:center;
+    }
+
+    .item-link-img{
+        width:20px;
+    }
 }
 
 @media(max-width:420px){
