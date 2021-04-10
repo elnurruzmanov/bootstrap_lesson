@@ -306,4 +306,12 @@ ul{
     .header-item{
         width:100%;
     }
+
+    .section-footer-item{
+        width:100%;
+    }
+
+    .card-head{
+        width:100%;
+    }
 }
