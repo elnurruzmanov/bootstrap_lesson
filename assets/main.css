@@ -287,6 +287,23 @@ ul{
         flex-direction: column;
     }
 
+    .iframe{
+        width:100%;
+        display:flex;
+        justify-content:center;
+        align-items: center;
+    }
+
+    .card-body{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width:100%;
+        text-align: center;
+        margin-left:100px;
+    }
+
     .header-item{
         width:100%;
     }
